@@ -106,26 +106,9 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your Streamlit application here.
-
----
-
-## 📈 Future Improvements
-
-- Deep Learning Models
-- Email Attachment Analysis
-- Gmail API Integration
-- Multiple Language Support
-- Confidence Score
-- Real-time Email Filtering
-
----
-
 ## 👨‍💻 Author
 
-**Your Name**
+Rishikesh
 
 GitHub:
-https://github.com/yourusername
+https://github.com/chintharishi-blip
